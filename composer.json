@@ -1,0 +1,17 @@
+{
+    "name": "endu/leetcode_practice",
+    "autoload": {
+        "psr-4": {
+            "Endu\\LeetcodePractice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fendo181",
+            "email": "fendo181git@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "psy/psysh": "@stable"
+    }
+}
